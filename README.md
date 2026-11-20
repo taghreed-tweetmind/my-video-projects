@@ -5,8 +5,6 @@
 - مِعيار: miyar/
 - رَشَد: rashad/
 - أثر: athar/ (النسخة المعدّلة: athar-v2.html)
-
-العروض التقديمية: presentations/
-- أثر — عرض مدينة تك: presentations/athar/
+- انفوجرافيك أثر: athar/athar_infographic.png
 
 المشاهدة: https://taghreed2112-frinds.github.io/my-video-projects/
