@@ -7,4 +7,4 @@
 - أثر: athar/ (النسخة المعدّلة: athar-v2.html)
 - انفوجرافيك أثر: athar/athar_infographic.png
 
-المشاهدة: https://taghreed2112-frinds.github.io/my-video-projects/
+المشاهدة: https://taghreed-tweetmind.github.io/my-video-projects/
